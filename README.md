@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Surya200203
-- 🌱 I’m currently learning Pyhton, C++.
+- 🌱 I’m currently learning Pyhton, C++,Javascript.
 - 📫 How to reach me sanket20020312@gmail.com
 
 <!---
