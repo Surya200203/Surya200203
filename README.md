@@ -12,8 +12,6 @@
 
 - 🤝 I’m looking for help with **css & javascript**
 
-- 👨‍💻 All of my projects are available at [https://surya200203.github.io/resume/](https://surya200203.github.io/resume/)
-
 - Feel free to talk about **Python,Robotics**
 
 - 📫 How to reach me **sanket20020312@gmail.com**
