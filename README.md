@@ -1,4 +1,4 @@
-
+<img align="center" src="poster.png">
 <h1 align="center">Hi 👋, I'm Sanket Suryavanshi</h1>
 <h3 align="center">Committing to excellence, one line at a time 🚧</h3>
 <img align="right" alt="Coding" width="400"   src="https://imgs.search.brave.com/84mGQFfPJCUChPKK3EtM3ih_91x_eQhgX764KOHe0no/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL3FnUVVn/Z0FDM1BmdjY4N3FQ/Qy8yMDAuZ2lmP2Np/ZD03OTBiNzYxMWUz/a3ZtbDA5OGt6ZHZl/Z3o1dnYyNHAyMzRy/dTZqMXE0ZncwY3Zv/eTQmZXA9djFfZ2lm/c19zZWFyY2gmcmlk/PTIwMC5naWYmY3Q9/Zw.gif">
