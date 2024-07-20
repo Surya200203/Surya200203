@@ -10,6 +10,10 @@
 
 - 📫 How to reach me **sanket20020312@gmail.com**
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Surya200203&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sanketsurya2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanketsurya2002" height="30" width="40" /></a>
